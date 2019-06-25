@@ -1,0 +1,27 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [ "dom", "es5", "scripthost", "es2015.iterable" ],
+    "watch": false,
+    "module": "none",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "typeRoots": [ "./node_modules/@types/" ],
+    "allowJs": false,
+    "removeComments": true,
+    "noEmitOnError": true,
+    "alwaysStrict": false,
+    "charset": "UTF8",
+    "experimentalDecorators": false,
+    "sourceMap": false,
+    "noImplicitUseStrict": true,
+    "noEmitHelpers": false
+  },
+  "include": [
+    "Scripts/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "aspnetcoretypescriptdemo",
+  "author": "Georgios (Yiorgos) Trifidis",
+  "version": "1.0.0",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "typescript": "3.5.2",
+    "@types/i18next": "12.1.0"
+  },
+  "dependencies": {
+    "i18next": "17.0.4",
+    "i18next-xhr-backend": "3.0.0"
+  }
+}
