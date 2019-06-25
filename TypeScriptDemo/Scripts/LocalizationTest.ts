@@ -4,7 +4,7 @@ namespace TypescriptDemo {
     export class LocalizationTest {
         constructor() {
             var test = 1;
-            i18next
+            i18next.default.use("module");
         }
     }
 }
