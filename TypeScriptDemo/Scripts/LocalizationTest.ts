@@ -3,8 +3,8 @@
 namespace TypescriptDemo {
     export class LocalizationTest {
         constructor() {
-            var test = 1;
-            i18next.default.use("module");
+            var test = 10;
+            i18next.use("module");
         }
     }
 }
